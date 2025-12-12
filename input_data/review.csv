@@ -1,0 +1,11 @@
+reviewer_name,review_metric,review_max
+IMDb,stars,10
+Rotten Tomatoes,tomatoes,100
+Metacritic,points,100
+Letterboxd,stars,5
+IGN,points,10
+FilmAffinity,points,10
+CinemaScore,points,100
+Audience Choice,votes,1000
+Critic Circle,rating,5
+Roger Ebert,stars,4

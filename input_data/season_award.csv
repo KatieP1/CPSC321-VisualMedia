@@ -1,0 +1,570 @@
+award_show_name,award_name,show_title,season_num
+Golden Horizon Ceremony,Best Visual Effects,Future Galaxy,1
+Granite Star Awards,Best Actress,Future Galaxy,1
+Spectrum Talent Awards,Best Costume Design,Past Crimson Hidden,1
+Harborlight Entertainment Awards,Best Show,Past Crimson Hidden,1
+Aether Artistry Gala,Best Actress,Past Crimson Hidden,2
+Eclipse Talent Fest,Best Visual Effects,Past Crimson Hidden,2
+Golden Horizon Ceremony,Best Costume Design,Past Crimson Hidden,2
+Lunar Crest Celebration,Lifetime Achievement,Past Crimson Hidden,2
+Mythos Media Awards,Best Show,Hidden Future,3
+Visionary Arts Summit,Best Costume Design,Hidden Future,3
+Crimson Crown Gala,Best Costume Design,Hidden Future,3
+Aurora Arts Awards,Best Show,Hidden Future,3
+Radiant Reel Awards,Best Show,Hidden Future,4
+Nebula Night Showcase,Best Visual Effects,Voyager Horizon Whispers,4
+Ironquill Arts Night,Best Soundtrack,Voyager Horizon Whispers,4
+Solar Flare Showcase,Best Visual Effects,Future Crimson,1
+Obsidian Screen Gala,Best Show,Future Crimson,1
+Silver Peak Honors,Best Show,Future Crimson,2
+Radiant Reel Awards,Best Director,Future Crimson,3
+Whisperwind Entertainment Fest,Best Actor,River Future Eclipse,1
+Obsidian Screen Gala,Lifetime Achievement,River Future Eclipse,1
+Whisperwind Entertainment Fest,Best Visual Effects,River Future Eclipse,1
+Starlight Entertainment Gala,Best Actress,River Future Eclipse,1
+Timberline Arts Awards,Lifetime Achievement,Golden Fury Dreams,1
+Emberlight Arts Showcase,Best Soundtrack,Hidden Nightfall Broken,1
+Harborlight Entertainment Awards,Best Cinematography,Wild Eternal,1
+Golden Horizon Ceremony,Best Actor,Silent Phantom,1
+Eclipse Talent Fest,Best Show,Silent Phantom,1
+Mythos Media Awards,Best Soundtrack,Silent Phantom,1
+Obsidian Screen Gala,Best Soundtrack,Silent Phantom,1
+Nova Prime Showcase,Best Cinematography,Wild Rising River,1
+Silver Peak Honors,Lifetime Achievement,Wild Rising River,3
+Eclipse Talent Fest,Best Visual Effects,Wild Rising River,3
+Mythos Media Awards,Best Costume Design,Past Storm,3
+Echo Stage Ceremony,Best Screenplay,Past Horizon Storm,1
+Timberline Arts Awards,Best Actor,Past Horizon Storm,1
+Eclipse Talent Fest,Best Costume Design,Past Horizon Storm,1
+Visionary Arts Summit,Best Cinematography,Midnight Kingdom Eclipse,1
+Silver Peak Honors,Best Show,Midnight Kingdom Eclipse,1
+Silver Peak Honors,Best Soundtrack,Midnight Kingdom Eclipse,1
+Aether Artistry Gala,Best Costume Design,Midnight Kingdom Eclipse,1
+Rivermoon Arts Gala,Best Screenplay,Midnight Crimson River,1
+Crimson Crown Gala,Best Soundtrack,Midnight Crimson River,1
+Obsidian Screen Gala,Best Screenplay,Midnight Crimson River,1
+Infinite Frame Awards,Best Show,Midnight Crimson River,1
+Obsidian Screen Gala,Best Visual Effects,Storm Future Kingdom,2
+Whisperwind Entertainment Fest,Best Screenplay,Storm Future Kingdom,2
+Spectrum Talent Awards,Best Screenplay,Eclipse Whispers,1
+Radiant Reel Awards,Lifetime Achievement,Eclipse Whispers,1
+Golden Horizon Ceremony,Best Cinematography,Eclipse Whispers,1
+Ironquill Arts Night,Best Visual Effects,Eclipse Whispers,1
+Timberline Arts Awards,Best Costume Design,Golden Neon,1
+Visionary Arts Summit,Lifetime Achievement,Golden Neon,1
+Aurora Arts Awards,Best Actor,Golden Neon,1
+Cindercrest Honors,Best Soundtrack,Golden Neon,4
+Celestial Screen Festival,Best Screenplay,Golden Neon,4
+Mariner Media Awards,Best Screenplay,Golden Neon,4
+Obsidian Screen Gala,Best Soundtrack,Golden Neon,4
+Aether Artistry Gala,Best Actress,Storm Sky,1
+Granite Star Awards,Best Actress,Storm Sky,1
+Solar Flare Showcase,Best Visual Effects,Storm Sky,1
+Rivermoon Arts Gala,Best Show,Storm Sky,3
+Whisperwind Entertainment Fest,Best Visual Effects,Storm Sky,3
+Starlight Entertainment Gala,Best Screenplay,Storm Sky,3
+Celestial Screen Festival,Best Cinematography,Broken Hidden Neon,1
+Harborlight Entertainment Awards,Best Visual Effects,Broken Hidden Neon,1
+Solar Flare Showcase,Best Visual Effects,Broken Hidden Neon,1
+Whisperwind Entertainment Fest,Best Soundtrack,Golden Eternal,1
+Spectrum Talent Awards,Best Show,Golden Eternal,1
+Starlight Entertainment Gala,Best Director,Storm Legends Hidden,1
+Celestial Screen Festival,Best Actor,Storm Legends Hidden,1
+Aurora Arts Awards,Best Screenplay,Storm Legends Hidden,1
+Echo Stage Ceremony,Lifetime Achievement,Storm Legends Hidden,1
+Eclipse Talent Fest,Best Cinematography,Dreams Hidden,1
+Harborlight Entertainment Awards,Best Actress,Dreams Hidden,1
+Aurora Arts Awards,Lifetime Achievement,Dreams Hidden,1
+Granite Star Awards,Best Costume Design,Dreams Hidden,1
+Infinite Frame Awards,Best Costume Design,Rising Hidden Neon,2
+Radiant Reel Awards,Best Costume Design,Golden Star Past,1
+Timberline Arts Awards,Best Visual Effects,Golden Star Past,1
+Celestial Screen Festival,Lifetime Achievement,Golden Star Past,1
+Harborlight Entertainment Awards,Best Director,Fury Eternal,2
+Timberline Arts Awards,Best Actress,Ancient Hidden,1
+Starlight Entertainment Gala,Best Screenplay,Ancient Hidden,1
+Cindercrest Honors,Lifetime Achievement,Ancient Hidden,1
+Mariner Media Awards,Lifetime Achievement,Broken Secret,2
+Solar Flare Showcase,Best Cinematography,Broken Secret,2
+Nova Prime Showcase,Best Show,Secret Eclipse,4
+Infinite Frame Awards,Lifetime Achievement,Secret Eclipse,4
+Golden Horizon Ceremony,Best Screenplay,Secret Eclipse,4
+Cindercrest Honors,Best Soundtrack,Secret Eclipse,4
+Solar Flare Showcase,Best Costume Design,Ancient Magic Voyager,2
+Cindercrest Honors,Best Actress,Ancient Magic Voyager,2
+Mariner Media Awards,Best Screenplay,Ancient Magic Voyager,2
+Golden Horizon Ceremony,Best Costume Design,Ancient Magic Voyager,3
+Mythos Media Awards,Best Costume Design,Ancient Magic Voyager,3
+Harborlight Entertainment Awards,Best Show,Ancient Magic Voyager,3
+Frostfall Entertainment Ceremony,Best Screenplay,Crystal Rising,2
+Obsidian Screen Gala,Best Actor,Crystal Rising,2
+Cindercrest Honors,Best Actor,Crystal Rising,2
+Emberlight Arts Showcase,Best Show,Crystal Rising,2
+Timberline Arts Awards,Best Screenplay,Broken Silver,2
+Nebula Night Showcase,Best Actress,Broken Silver,2
+Nebula Night Showcase,Best Show,Broken Silver,2
+Emberlight Arts Showcase,Lifetime Achievement,Horizon Eclipse Crystal,1
+Whisperwind Entertainment Fest,Best Screenplay,Horizon Eclipse Crystal,1
+Mariner Media Awards,Best Costume Design,Horizon Eclipse Crystal,2
+Eclipse Talent Fest,Best Director,Horizon Eclipse Crystal,2
+Whisperwind Entertainment Fest,Best Director,Future Rising,2
+Granite Star Awards,Best Screenplay,Horizon Dreams,2
+Harborlight Entertainment Awards,Lifetime Achievement,Whispers Sky Star,1
+Whisperwind Entertainment Fest,Best Visual Effects,Whispers Sky Star,1
+Echo Stage Ceremony,Best Director,Whispers Sky Star,1
+Frostfall Entertainment Ceremony,Lifetime Achievement,Whispers Sky Star,2
+Nebula Night Showcase,Best Screenplay,Hidden Dreams Silver,3
+Emberlight Arts Showcase,Lifetime Achievement,Hidden Dreams Silver,3
+Visionary Arts Summit,Best Actor,Hidden Dreams Silver,3
+Rivermoon Arts Gala,Best Screenplay,Magic Fury Broken,3
+Emberlight Arts Showcase,Best Soundtrack,Magic Fury Broken,3
+Cindercrest Honors,Best Actor,Magic Fury Broken,3
+Bluefire Cinema Honors,Best Show,Kingdom Nightfall Neon,2
+Radiant Reel Awards,Best Costume Design,Kingdom Nightfall Neon,2
+Bluefire Cinema Honors,Best Soundtrack,Crimson Legends,3
+Ironquill Arts Night,Lifetime Achievement,Crimson Legends,3
+Infinite Frame Awards,Best Director,Crimson Legends,3
+Harborlight Entertainment Awards,Best Screenplay,Star Future,1
+Bluefire Cinema Honors,Best Show,Star Future,1
+Emberlight Arts Showcase,Best Screenplay,Star Future,3
+Golden Horizon Ceremony,Best Soundtrack,Magic Phantom,1
+Silver Peak Honors,Best Director,Magic Phantom,1
+Whisperwind Entertainment Fest,Best Costume Design,Shadow Magic Galaxy,2
+Obsidian Screen Gala,Best Show,Shadow Magic Galaxy,2
+Golden Horizon Ceremony,Best Cinematography,Shadow Magic Galaxy,2
+Silver Peak Honors,Best Visual Effects,Shadow Magic Galaxy,3
+Eclipse Talent Fest,Best Actress,Shadow Magic Galaxy,3
+Golden Horizon Ceremony,Best Screenplay,Shadow Magic Galaxy,3
+Timberline Arts Awards,Best Soundtrack,Echo Midnight,2
+Emberlight Arts Showcase,Best Actor,Echo Midnight,3
+Harborlight Entertainment Awards,Best Screenplay,Echo Midnight,3
+Visionary Arts Summit,Lifetime Achievement,Eclipse Phantom,1
+Ironquill Arts Night,Best Cinematography,Eclipse Phantom,1
+Whisperwind Entertainment Fest,Best Director,Eclipse Phantom,1
+Radiant Reel Awards,Best Director,Eclipse Phantom,2
+Eclipse Talent Fest,Best Show,Eclipse Phantom,2
+Frostfall Entertainment Ceremony,Best Costume Design,Golden Kingdom,2
+Silver Peak Honors,Best Actor,Golden Kingdom,2
+Harborlight Entertainment Awards,Best Actress,Rising Fury Neon,1
+Solar Flare Showcase,Best Actor,Rising Fury Neon,1
+Lunar Crest Celebration,Best Soundtrack,Fading Sky Broken,2
+Harborlight Entertainment Awards,Best Cinematography,Fading Sky Broken,2
+Eclipse Talent Fest,Best Actor,Fading Sky Broken,2
+Cindercrest Honors,Best Screenplay,Fading Sky Broken,2
+Harborlight Entertainment Awards,Best Soundtrack,Golden Voyager,2
+Spectrum Talent Awards,Best Director,Golden Voyager,2
+Visionary Arts Summit,Best Actor,Echo Horizon Wild,4
+Frostfall Entertainment Ceremony,Best Show,Echo Horizon Wild,4
+Obsidian Screen Gala,Best Screenplay,Echo Horizon Wild,4
+Radiant Reel Awards,Lifetime Achievement,Hidden Magic,1
+Visionary Arts Summit,Best Show,Hidden Magic,1
+Whisperwind Entertainment Fest,Best Screenplay,Hidden Magic,1
+Solar Flare Showcase,Best Screenplay,Hidden Magic,1
+Mythos Media Awards,Lifetime Achievement,Midnight Eternal Hidden,1
+Bluefire Cinema Honors,Best Show,Midnight Eternal Hidden,1
+Golden Horizon Ceremony,Best Visual Effects,Sky Magic Wild,3
+Harborlight Entertainment Awards,Best Actress,Sky Magic Wild,3
+Starlight Entertainment Gala,Best Costume Design,Sky Magic Wild,3
+Silver Peak Honors,Lifetime Achievement,Wild Dreams Golden,2
+Obsidian Screen Gala,Best Screenplay,Wild Dreams Golden,2
+Spectrum Talent Awards,Best Actor,Wild Dreams Golden,2
+Eclipse Talent Fest,Lifetime Achievement,Wild Dreams Golden,2
+Infinite Frame Awards,Best Visual Effects,Legends Wild Phantom,2
+Echo Stage Ceremony,Best Cinematography,Legends Wild Phantom,2
+Aurora Arts Awards,Best Director,Voyager Legends Eclipse,1
+Granite Star Awards,Lifetime Achievement,Voyager Legends Eclipse,1
+Whisperwind Entertainment Fest,Best Actress,Silver Ancient,1
+Golden Horizon Ceremony,Best Actress,Silver Ancient,1
+Nova Prime Showcase,Best Actor,Silver Ancient,1
+Silver Peak Honors,Best Screenplay,Silver Ancient,1
+Eclipse Talent Fest,Best Actress,Kingdom Star,1
+Echo Stage Ceremony,Best Costume Design,Whispers Hidden,1
+Timberline Arts Awards,Best Cinematography,Whispers Hidden,4
+Granite Star Awards,Best Soundtrack,Whispers Hidden,4
+Silver Peak Honors,Best Actress,Whispers Hidden,4
+Starlight Entertainment Gala,Best Director,Whispers Golden,3
+Ironquill Arts Night,Best Show,Whispers Golden,3
+Rivermoon Arts Gala,Best Soundtrack,Magic Crimson,2
+Mythos Media Awards,Best Costume Design,Magic Crimson,2
+Eclipse Talent Fest,Best Screenplay,Magic Crimson,2
+Whisperwind Entertainment Fest,Best Costume Design,Wild Sky,2
+Nova Prime Showcase,Best Cinematography,Wild Sky,2
+Obsidian Screen Gala,Best Soundtrack,Wild Sky,2
+Nova Prime Showcase,Lifetime Achievement,Wild Sky,2
+Obsidian Screen Gala,Best Cinematography,Eclipse Dreams Kingdom,1
+Echo Stage Ceremony,Lifetime Achievement,Eclipse Dreams Kingdom,1
+Whisperwind Entertainment Fest,Best Director,Horizon Golden,3
+Crimson Crown Gala,Best Actress,Horizon Golden,3
+Emberlight Arts Showcase,Lifetime Achievement,Secret Magic Midnight,1
+Infinite Frame Awards,Best Costume Design,Secret Magic Midnight,1
+Timberline Arts Awards,Best Cinematography,Secret Magic Midnight,2
+Mythos Media Awards,Best Cinematography,Silver Silent,4
+Spectrum Talent Awards,Lifetime Achievement,Silver Silent,4
+Silver Peak Honors,Lifetime Achievement,Silver Silent,4
+Mariner Media Awards,Lifetime Achievement,Silver Silent,4
+Nova Prime Showcase,Best Actor,Magic Star Storm,1
+Harborlight Entertainment Awards,Best Director,Magic Star Storm,1
+Starlight Entertainment Gala,Best Director,Magic Star Storm,1
+Aurora Arts Awards,Best Soundtrack,Magic Star Storm,1
+Nova Prime Showcase,Best Show,Fury Past River,2
+Aether Artistry Gala,Best Show,Fury Past River,2
+Obsidian Screen Gala,Best Soundtrack,Fury Past River,2
+Lunar Crest Celebration,Best Actor,Hidden Broken Fading,3
+Spectrum Talent Awards,Lifetime Achievement,Future Storm,1
+Echo Stage Ceremony,Best Show,Future Storm,1
+Rivermoon Arts Gala,Best Screenplay,Future Storm,1
+Mythos Media Awards,Best Visual Effects,Midnight Echo Future,1
+Lunar Crest Celebration,Lifetime Achievement,Midnight Echo Future,1
+Visionary Arts Summit,Best Costume Design,Midnight Echo Future,1
+Frostfall Entertainment Ceremony,Lifetime Achievement,Midnight Echo Future,1
+Visionary Arts Summit,Best Show,Crimson Neon,2
+Aether Artistry Gala,Lifetime Achievement,Crimson Neon,2
+Golden Horizon Ceremony,Lifetime Achievement,Crimson Neon,2
+Granite Star Awards,Best Cinematography,Crimson Neon,2
+Cindercrest Honors,Best Soundtrack,Phantom Horizon,3
+Harborlight Entertainment Awards,Best Show,Phantom Horizon,3
+Mythos Media Awards,Best Visual Effects,Phantom Horizon,3
+Nova Prime Showcase,Best Visual Effects,Phantom Horizon,3
+Nova Prime Showcase,Best Cinematography,Fading Nightfall Sky,2
+Frostfall Entertainment Ceremony,Lifetime Achievement,Fading Nightfall Sky,2
+Radiant Reel Awards,Best Visual Effects,Fading Nightfall Sky,2
+Rivermoon Arts Gala,Best Visual Effects,Horizon Ancient Voyager,2
+Cindercrest Honors,Best Soundtrack,Horizon Ancient Voyager,2
+Starlight Entertainment Gala,Lifetime Achievement,Horizon Ancient Voyager,2
+Frostfall Entertainment Ceremony,Best Actor,Star Fury Kingdom,2
+Granite Star Awards,Best Screenplay,Star Fury Kingdom,2
+Solar Flare Showcase,Lifetime Achievement,Star Fury Kingdom,4
+Aurora Arts Awards,Best Show,Star Fury Kingdom,4
+Frostfall Entertainment Ceremony,Best Soundtrack,Star Fury Kingdom,4
+Granite Star Awards,Lifetime Achievement,Star Fury Kingdom,4
+Lunar Crest Celebration,Best Actor,River Ancient Midnight,2
+Solar Flare Showcase,Best Visual Effects,River Ancient Midnight,2
+Spectrum Talent Awards,Best Soundtrack,River Ancient Midnight,2
+Crimson Crown Gala,Best Director,Secret Hidden,1
+Crimson Crown Gala,Best Actor,Hidden Silver Whispers,3
+Bluefire Cinema Honors,Best Visual Effects,Hidden Silver Whispers,3
+Visionary Arts Summit,Best Cinematography,Hidden Silver Whispers,3
+Radiant Reel Awards,Best Show,Past Midnight,1
+Ironquill Arts Night,Best Cinematography,Golden Fading Fury,3
+Starlight Entertainment Gala,Best Screenplay,Golden Fading Fury,3
+Nova Prime Showcase,Best Costume Design,Fury Ancient Crystal,2
+Granite Star Awards,Best Show,Fury Ancient Crystal,2
+Ironquill Arts Night,Best Show,Horizon Crimson,3
+Ironquill Arts Night,Best Actor,Horizon Crimson,3
+Emberlight Arts Showcase,Best Cinematography,Horizon Crimson,3
+Golden Horizon Ceremony,Best Screenplay,River Past,1
+Eclipse Talent Fest,Best Cinematography,River Past,1
+Ironquill Arts Night,Best Visual Effects,River Past,1
+Celestial Screen Festival,Best Show,River Past,1
+Mariner Media Awards,Best Visual Effects,Secret Phantom,2
+Rivermoon Arts Gala,Best Visual Effects,Fading Galaxy,2
+Nova Prime Showcase,Best Director,Fading Galaxy,2
+Nova Prime Showcase,Lifetime Achievement,Fading Galaxy,2
+Echo Stage Ceremony,Best Actor,Fading Galaxy,2
+Mythos Media Awards,Lifetime Achievement,Fading Galaxy,3
+Spectrum Talent Awards,Best Soundtrack,Fading Galaxy,3
+Eclipse Talent Fest,Best Cinematography,Fading Galaxy,3
+Timberline Arts Awards,Best Show,Legends Past Neon,2
+Infinite Frame Awards,Best Visual Effects,Legends Past Neon,2
+Celestial Screen Festival,Best Soundtrack,Legends Past Neon,2
+Visionary Arts Summit,Best Director,Horizon Storm Golden,3
+Obsidian Screen Gala,Best Costume Design,Horizon Storm Golden,3
+Echo Stage Ceremony,Best Screenplay,Eclipse Voyager Kingdom,3
+Solar Flare Showcase,Best Screenplay,Eclipse Voyager Kingdom,3
+Bluefire Cinema Honors,Best Visual Effects,Storm Legends Future,1
+Spectrum Talent Awards,Best Soundtrack,Storm Legends Future,1
+Aurora Arts Awards,Best Visual Effects,Storm Legends Future,3
+Golden Horizon Ceremony,Best Soundtrack,Dreams Shadow Secret,2
+Ironquill Arts Night,Best Soundtrack,Dreams Shadow Secret,3
+Whisperwind Entertainment Fest,Best Director,Dreams Shadow Secret,3
+Eclipse Talent Fest,Lifetime Achievement,Dreams Shadow Secret,3
+Obsidian Screen Gala,Best Show,Dreams Shadow Secret,3
+Whisperwind Entertainment Fest,Best Visual Effects,Eternal Future Rising,2
+Lunar Crest Celebration,Best Show,Eternal Future Rising,2
+Nebula Night Showcase,Best Show,Eternal Future Rising,3
+Spectrum Talent Awards,Best Visual Effects,Eternal Future Rising,3
+Granite Star Awards,Best Costume Design,Eternal Future Rising,3
+Mythos Media Awards,Best Visual Effects,Horizon Broken Wild,3
+Solar Flare Showcase,Best Actress,Horizon Broken Wild,3
+Nebula Night Showcase,Best Screenplay,Horizon Broken Wild,3
+Lunar Crest Celebration,Lifetime Achievement,Horizon Broken Wild,3
+Whisperwind Entertainment Fest,Best Cinematography,Fury River,1
+Silver Peak Honors,Best Director,Fury River,1
+Cindercrest Honors,Best Actor,Fury River,1
+Harborlight Entertainment Awards,Best Visual Effects,Fury River,1
+Spectrum Talent Awards,Best Soundtrack,Secret Ancient Magic,1
+Mythos Media Awards,Best Soundtrack,Nightfall Legends Silent,3
+Starlight Entertainment Gala,Best Screenplay,Kingdom Ancient Midnight,2
+Celestial Screen Festival,Best Show,Future Silver,1
+Solar Flare Showcase,Best Screenplay,Future Silver,1
+Mariner Media Awards,Best Visual Effects,Future Silver,1
+Frostfall Entertainment Ceremony,Best Actor,Magic Eclipse Legends,2
+Solar Flare Showcase,Best Actress,Magic Eclipse Legends,2
+Aether Artistry Gala,Best Actor,Magic Eclipse Legends,2
+Mythos Media Awards,Best Cinematography,Magic Eclipse Legends,2
+Aurora Arts Awards,Best Show,Fading Silver Horizon,4
+Aether Artistry Gala,Best Costume Design,Fading Silver Horizon,4
+Silver Peak Honors,Best Costume Design,Fading Silver Horizon,4
+Crimson Crown Gala,Best Costume Design,Fading Silver Horizon,4
+Golden Horizon Ceremony,Best Show,Voyager Eternal Silent,1
+Granite Star Awards,Best Costume Design,Voyager Eternal Silent,1
+Radiant Reel Awards,Best Director,Voyager Eternal Silent,1
+Whisperwind Entertainment Fest,Best Director,Silent Future Eternal,1
+Eclipse Talent Fest,Best Visual Effects,Silent Future Eternal,1
+Aether Artistry Gala,Best Screenplay,Silent Future Eternal,1
+Harborlight Entertainment Awards,Best Director,Silent Future Eternal,2
+Frostfall Entertainment Ceremony,Best Director,Silent Future Eternal,2
+Spectrum Talent Awards,Best Costume Design,Secret Nightfall,1
+Whisperwind Entertainment Fest,Best Costume Design,Secret Nightfall,1
+Emberlight Arts Showcase,Best Actress,Secret Nightfall,1
+Aether Artistry Gala,Best Screenplay,Secret Nightfall,1
+Infinite Frame Awards,Best Director,Nightfall Fading,2
+Celestial Screen Festival,Best Show,Nightfall Fading,2
+Silver Peak Honors,Best Actor,Nightfall Fading,2
+Whisperwind Entertainment Fest,Best Soundtrack,Nightfall Fading,3
+Bluefire Cinema Honors,Best Visual Effects,Nightfall Fading,3
+Frostfall Entertainment Ceremony,Best Costume Design,Rising Star,3
+Granite Star Awards,Best Director,Rising Star,3
+Harborlight Entertainment Awards,Best Soundtrack,Rising Star,3
+Lunar Crest Celebration,Best Director,Rising Star,4
+Nova Prime Showcase,Lifetime Achievement,Shadow Crimson,3
+Rivermoon Arts Gala,Best Actor,Horizon Kingdom Golden,1
+Visionary Arts Summit,Best Actress,Horizon Kingdom Golden,1
+Aether Artistry Gala,Lifetime Achievement,Horizon Kingdom Golden,1
+Emberlight Arts Showcase,Best Show,Horizon Kingdom Golden,1
+Infinite Frame Awards,Best Director,Horizon Echo Golden,2
+Golden Horizon Ceremony,Best Show,Horizon Echo Golden,2
+Echo Stage Ceremony,Best Actress,Horizon Echo Golden,2
+Obsidian Screen Gala,Best Actress,Horizon Echo Golden,2
+Crimson Crown Gala,Best Show,Fury Whispers Silver,1
+Infinite Frame Awards,Best Actress,Fury Whispers Silver,1
+Frostfall Entertainment Ceremony,Best Visual Effects,Fury Whispers Silver,1
+Visionary Arts Summit,Best Costume Design,Past Nightfall Crystal,1
+Lunar Crest Celebration,Best Actress,Past Nightfall Crystal,1
+Radiant Reel Awards,Best Costume Design,Future Sky Eternal,1
+Obsidian Screen Gala,Best Screenplay,Future Sky Eternal,1
+Nebula Night Showcase,Best Cinematography,Future Sky Eternal,2
+Infinite Frame Awards,Best Visual Effects,Future Sky Eternal,2
+Aether Artistry Gala,Best Actor,Future Sky Eternal,2
+Solar Flare Showcase,Best Director,Future Sky Eternal,3
+Granite Star Awards,Best Cinematography,Future Sky Eternal,3
+Lunar Crest Celebration,Lifetime Achievement,Future Sky Eternal,3
+Mariner Media Awards,Lifetime Achievement,Echo Broken,1
+Lunar Crest Celebration,Lifetime Achievement,Echo Broken,1
+Nebula Night Showcase,Best Show,Legends Future,3
+Cindercrest Honors,Best Soundtrack,Legends Future,3
+Crimson Crown Gala,Best Visual Effects,Legends Future,3
+Radiant Reel Awards,Lifetime Achievement,Kingdom Silent,2
+Mariner Media Awards,Best Visual Effects,Kingdom Silent,2
+Radiant Reel Awards,Best Soundtrack,Magic Broken,2
+Timberline Arts Awards,Lifetime Achievement,Magic Broken,2
+Visionary Arts Summit,Best Cinematography,Magic Broken,2
+Golden Horizon Ceremony,Best Screenplay,River Ancient Kingdom,1
+Mariner Media Awards,Best Visual Effects,Silent Wild,1
+Echo Stage Ceremony,Lifetime Achievement,Silent Wild,1
+Solar Flare Showcase,Lifetime Achievement,Broken Star,2
+Visionary Arts Summit,Best Director,Broken Star,2
+Cindercrest Honors,Best Cinematography,Broken Star,2
+Lunar Crest Celebration,Best Costume Design,Galaxy Phantom Future,2
+Emberlight Arts Showcase,Lifetime Achievement,Galaxy Phantom Future,2
+Golden Horizon Ceremony,Best Visual Effects,Galaxy Phantom Future,2
+Crimson Crown Gala,Best Actor,Galaxy Phantom Future,2
+Granite Star Awards,Best Cinematography,Rising Eclipse,3
+Crimson Crown Gala,Best Visual Effects,Rising Eclipse,3
+Spectrum Talent Awards,Best Director,Crimson Voyager Future,2
+Silver Peak Honors,Best Show,Storm Magic,1
+Emberlight Arts Showcase,Best Visual Effects,Storm Magic,1
+Eclipse Talent Fest,Best Show,Storm Magic,1
+Bluefire Cinema Honors,Best Actress,Future Galaxy Silver,1
+Visionary Arts Summit,Best Screenplay,Future Galaxy Silver,1
+Mariner Media Awards,Best Soundtrack,Future Galaxy Silver,1
+Bluefire Cinema Honors,Best Actress,Kingdom Nightfall,2
+Eclipse Talent Fest,Lifetime Achievement,Kingdom Nightfall,2
+Cindercrest Honors,Best Costume Design,Kingdom Nightfall,2
+Ironquill Arts Night,Best Costume Design,Dreams Kingdom,4
+Infinite Frame Awards,Best Screenplay,Dreams Kingdom,4
+Radiant Reel Awards,Best Director,Dreams Kingdom,4
+Visionary Arts Summit,Best Show,Magic Kingdom,3
+Radiant Reel Awards,Best Screenplay,Voyager Ancient Secret,1
+Solar Flare Showcase,Best Screenplay,Voyager Ancient Secret,1
+Infinite Frame Awards,Best Soundtrack,Voyager Ancient Secret,1
+Spectrum Talent Awards,Best Show,Voyager Ancient Secret,1
+Aurora Arts Awards,Best Director,Midnight Echo Shadow,1
+Nebula Night Showcase,Best Cinematography,Midnight Echo Shadow,1
+Mythos Media Awards,Best Actor,Star Silver,2
+Radiant Reel Awards,Best Costume Design,Star Silver,4
+Cindercrest Honors,Best Director,Star Silver,4
+Echo Stage Ceremony,Best Soundtrack,Star Silver,4
+Aether Artistry Gala,Best Cinematography,Whispers Voyager,2
+Lunar Crest Celebration,Best Screenplay,Whispers Voyager,2
+Bluefire Cinema Honors,Best Actress,Whispers Voyager,2
+Whisperwind Entertainment Fest,Lifetime Achievement,Galaxy Rising,1
+Spectrum Talent Awards,Best Actor,Galaxy Rising,1
+Aurora Arts Awards,Best Screenplay,Galaxy Rising,1
+Crimson Crown Gala,Lifetime Achievement,Galaxy Rising,1
+Whisperwind Entertainment Fest,Best Show,Secret Voyager,1
+Aurora Arts Awards,Best Screenplay,Secret Voyager,1
+Spectrum Talent Awards,Best Cinematography,Secret Voyager,1
+Solar Flare Showcase,Best Actress,Secret Voyager,1
+Silver Peak Honors,Best Show,Midnight Kingdom Dreams,4
+Infinite Frame Awards,Best Show,Midnight Kingdom Dreams,4
+Lunar Crest Celebration,Best Actor,Midnight Kingdom Dreams,4
+Crimson Crown Gala,Best Show,Star Future Fury,3
+Emberlight Arts Showcase,Best Soundtrack,Star Future Fury,3
+Echo Stage Ceremony,Best Cinematography,Star Future Fury,3
+Mariner Media Awards,Best Screenplay,Ancient Fury Echo,1
+Mariner Media Awards,Best Cinematography,Ancient Fury Echo,1
+Emberlight Arts Showcase,Best Director,Ancient Fury Echo,1
+Rivermoon Arts Gala,Best Screenplay,Ancient Fury Echo,1
+Lunar Crest Celebration,Lifetime Achievement,Sky Dreams Secret,3
+Emberlight Arts Showcase,Best Actor,Sky Dreams Secret,3
+Aurora Arts Awards,Best Director,Secret Eternal,1
+Infinite Frame Awards,Best Director,Secret Eternal,2
+Whisperwind Entertainment Fest,Best Actress,Secret Eternal,2
+Crimson Crown Gala,Best Cinematography,Secret Eternal,2
+Starlight Entertainment Gala,Best Visual Effects,Sky Voyager Neon,1
+Mythos Media Awards,Best Director,Sky Voyager Neon,1
+Starlight Entertainment Gala,Best Soundtrack,Sky Voyager Neon,1
+Rivermoon Arts Gala,Best Actor,Sky Voyager Neon,2
+Radiant Reel Awards,Best Soundtrack,Sky Voyager Neon,2
+Spectrum Talent Awards,Best Actor,Sky Voyager Neon,2
+Infinite Frame Awards,Best Show,Sky Voyager Neon,3
+Ironquill Arts Night,Best Director,Sky Voyager Neon,3
+Bluefire Cinema Honors,Best Actor,Sky Voyager Neon,3
+Infinite Frame Awards,Best Actor,Sky Voyager Neon,3
+Mythos Media Awards,Best Director,Wild Horizon Fury,1
+Spectrum Talent Awards,Best Screenplay,Wild Horizon Fury,1
+Granite Star Awards,Best Screenplay,Wild Horizon Fury,1
+Starlight Entertainment Gala,Best Soundtrack,Wild Horizon Fury,3
+Radiant Reel Awards,Best Costume Design,Wild Horizon Fury,3
+Infinite Frame Awards,Best Visual Effects,Wild Horizon Fury,3
+Silver Peak Honors,Best Cinematography,Nightfall Rising,1
+Cindercrest Honors,Best Director,Crystal Eternal Neon,3
+Lunar Crest Celebration,Best Costume Design,Crystal Eternal Neon,3
+Golden Horizon Ceremony,Best Visual Effects,Whispers Wild Golden,2
+Mariner Media Awards,Best Cinematography,Whispers Wild Golden,2
+Celestial Screen Festival,Best Costume Design,Whispers River Future,3
+Aether Artistry Gala,Best Costume Design,Whispers River Future,3
+Aurora Arts Awards,Best Visual Effects,Whispers River Future,3
+Rivermoon Arts Gala,Best Soundtrack,Kingdom Fading Shadow,4
+Harborlight Entertainment Awards,Best Cinematography,Kingdom Fading Shadow,4
+Harborlight Entertainment Awards,Best Screenplay,Crimson Star Wild,1
+Golden Horizon Ceremony,Best Screenplay,Crimson Star Wild,1
+Mariner Media Awards,Best Visual Effects,Crimson Star Wild,1
+Infinite Frame Awards,Best Show,Crimson Star Wild,1
+Celestial Screen Festival,Best Show,Kingdom Sky Galaxy,2
+Mythos Media Awards,Best Soundtrack,Kingdom Sky Galaxy,2
+Granite Star Awards,Best Actor,Kingdom Sky Galaxy,2
+Silver Peak Honors,Lifetime Achievement,Kingdom Sky Galaxy,2
+Frostfall Entertainment Ceremony,Best Cinematography,Kingdom Sky Galaxy,3
+Celestial Screen Festival,Best Costume Design,Kingdom Sky Galaxy,3
+Nova Prime Showcase,Best Screenplay,Shadow Eternal,1
+Aurora Arts Awards,Best Director,Shadow Eternal,1
+Nebula Night Showcase,Lifetime Achievement,Shadow Rising Secret,2
+Eclipse Talent Fest,Best Show,Shadow Rising Secret,2
+Harborlight Entertainment Awards,Best Cinematography,Shadow Rising Secret,2
+Echo Stage Ceremony,Best Show,Shadow Rising Secret,2
+Celestial Screen Festival,Best Soundtrack,Magic Midnight,1
+Timberline Arts Awards,Best Soundtrack,Magic Midnight,1
+Golden Horizon Ceremony,Best Screenplay,Magic Midnight,1
+Golden Horizon Ceremony,Best Actress,Magic Midnight,3
+Infinite Frame Awards,Lifetime Achievement,Silent Sky Past,1
+Emberlight Arts Showcase,Best Show,Silent Sky Past,1
+Bluefire Cinema Honors,Best Soundtrack,Silent Sky Past,1
+Aether Artistry Gala,Best Soundtrack,Silent Sky Past,1
+Spectrum Talent Awards,Best Visual Effects,Nightfall Sky,1
+Frostfall Entertainment Ceremony,Best Soundtrack,Nightfall Sky,1
+Mythos Media Awards,Best Costume Design,Nightfall Sky,2
+Starlight Entertainment Gala,Best Visual Effects,Past River,1
+Infinite Frame Awards,Best Cinematography,Past River,1
+Golden Horizon Ceremony,Best Director,Past River,1
+Silver Peak Honors,Best Costume Design,Past River,1
+Golden Horizon Ceremony,Lifetime Achievement,Hidden Phantom Galaxy,1
+Solar Flare Showcase,Best Cinematography,Hidden Phantom Galaxy,1
+Radiant Reel Awards,Best Actress,Eternal Dreams Sky,1
+Aether Artistry Gala,Best Show,Eternal Dreams Sky,1
+Radiant Reel Awards,Best Visual Effects,Eternal Dreams Sky,1
+Crimson Crown Gala,Best Soundtrack,Eternal Dreams Sky,1
+Bluefire Cinema Honors,Best Show,Magic Wild Secret,4
+Starlight Entertainment Gala,Best Screenplay,Echo Neon,3
+Granite Star Awards,Best Actor,Echo Neon,3
+Silver Peak Honors,Best Screenplay,Echo Neon,3
+Solar Flare Showcase,Best Actor,Echo Neon,3
+Ironquill Arts Night,Best Director,Legends Sky Eternal,2
+Aurora Arts Awards,Lifetime Achievement,Legends Sky Eternal,2
+Silver Peak Honors,Best Screenplay,Legends Sky Eternal,2
+Spectrum Talent Awards,Best Soundtrack,Secret Midnight Dreams,2
+Timberline Arts Awards,Best Show,Secret Midnight Dreams,2
+Aurora Arts Awards,Lifetime Achievement,Secret Midnight Dreams,2
+Rivermoon Arts Gala,Best Visual Effects,Secret Midnight Dreams,2
+Starlight Entertainment Gala,Lifetime Achievement,Secret Midnight Dreams,3
+Bluefire Cinema Honors,Best Visual Effects,Silver Fading Silent,1
+Mariner Media Awards,Best Visual Effects,Voyager Future Golden,2
+Echo Stage Ceremony,Best Cinematography,Past Hidden Crimson,1
+Frostfall Entertainment Ceremony,Best Visual Effects,Past Hidden Crimson,1
+Nebula Night Showcase,Best Show,Past Hidden Crimson,2
+Emberlight Arts Showcase,Best Show,Past Hidden Crimson,2
+Golden Horizon Ceremony,Best Show,Eclipse Fury Silver,3
+Infinite Frame Awards,Best Soundtrack,Fury Sky Star,1
+Rivermoon Arts Gala,Best Visual Effects,Fury Sky Star,1
+Ironquill Arts Night,Best Screenplay,Fury Sky Star,1
+Granite Star Awards,Best Cinematography,Fury Sky Star,1
+Nova Prime Showcase,Best Screenplay,Fury Sky Star,3
+Solar Flare Showcase,Best Soundtrack,Fury Sky Star,3
+Eclipse Talent Fest,Best Screenplay,Fury Sky Star,3
+Echo Stage Ceremony,Best Screenplay,Hidden Golden,2
+Nebula Night Showcase,Best Visual Effects,Hidden Golden,4
+Timberline Arts Awards,Best Actress,Hidden Golden,4
+Crimson Crown Gala,Best Director,Future River Silver,2
+Rivermoon Arts Gala,Lifetime Achievement,Future River Silver,2
+Whisperwind Entertainment Fest,Best Actor,Future River Silver,2
+Nebula Night Showcase,Best Screenplay,Future River Silver,2
+Aether Artistry Gala,Best Actor,Future River Silver,4
+Bluefire Cinema Honors,Best Visual Effects,Future River Silver,4
+Aurora Arts Awards,Best Visual Effects,Future River Silver,4
+Emberlight Arts Showcase,Best Director,Kingdom Secret,3
+Echo Stage Ceremony,Best Soundtrack,Kingdom Secret,3
+Golden Horizon Ceremony,Best Costume Design,Kingdom Secret,3
+Harborlight Entertainment Awards,Best Soundtrack,Kingdom Secret,3
+Whisperwind Entertainment Fest,Best Costume Design,Kingdom Secret,4
+Solar Flare Showcase,Best Actress,Kingdom Secret,4
+Celestial Screen Festival,Best Actress,Kingdom Secret,4
+Solar Flare Showcase,Best Costume Design,Kingdom Secret,4
+Crimson Crown Gala,Best Visual Effects,Neon Fury Whispers,3
+Visionary Arts Summit,Best Actress,Neon Fury Whispers,3
+Starlight Entertainment Gala,Best Actress,Neon Fury Whispers,3
+Lunar Crest Celebration,Best Cinematography,Neon Fury Whispers,4
+Crimson Crown Gala,Best Visual Effects,Neon Fury Whispers,4
+Cindercrest Honors,Lifetime Achievement,Neon Fury Whispers,4
+Cindercrest Honors,Best Actress,Neon Crimson Eternal,1
+Crimson Crown Gala,Best Soundtrack,Neon Crimson Eternal,1
+Cindercrest Honors,Best Show,Neon Crimson Eternal,1
+Emberlight Arts Showcase,Best Cinematography,Neon Crimson Eternal,1
+Frostfall Entertainment Ceremony,Best Show,Neon Crimson Eternal,3
+Golden Horizon Ceremony,Best Soundtrack,Voyager Silver,1
+Infinite Frame Awards,Best Director,River Ancient Echo,1
+Lunar Crest Celebration,Best Actress,River Ancient Echo,1
+Nova Prime Showcase,Lifetime Achievement,River Ancient Echo,1
+Starlight Entertainment Gala,Best Visual Effects,River Ancient Echo,1
+Bluefire Cinema Honors,Best Cinematography,Phantom Dreams Sky,1
+Granite Star Awards,Best Screenplay,Phantom Dreams Sky,1
+Nova Prime Showcase,Best Cinematography,Phantom Dreams Sky,1
+Spectrum Talent Awards,Lifetime Achievement,Phantom Dreams Sky,1
+Echo Stage Ceremony,Best Soundtrack,Kingdom Rising Wild,1
+Emberlight Arts Showcase,Best Cinematography,Kingdom Rising Wild,1
+Infinite Frame Awards,Lifetime Achievement,Kingdom Rising Wild,1
+Aether Artistry Gala,Best Visual Effects,Kingdom Rising Wild,1
+Harborlight Entertainment Awards,Best Soundtrack,Crimson Voyager,4
+Rivermoon Arts Gala,Best Cinematography,Wild Shadow,4
+Frostfall Entertainment Ceremony,Lifetime Achievement,Wild Shadow,4
+Solar Flare Showcase,Best Actor,Wild Shadow,4
+Rivermoon Arts Gala,Best Screenplay,Eternal Sky Storm,3
+Visionary Arts Summit,Best Show,Eternal Sky Storm,3
+Mythos Media Awards,Best Visual Effects,Eternal Sky Storm,3
+Bluefire Cinema Honors,Best Screenplay,Eternal Sky Storm,3
+Nova Prime Showcase,Best Director,Midnight Dreams,2
+Rivermoon Arts Gala,Best Cinematography,Midnight Dreams,2
+Lunar Crest Celebration,Best Soundtrack,Fading Eclipse Hidden,1
+Visionary Arts Summit,Best Cinematography,Fading Eclipse Hidden,1
+Obsidian Screen Gala,Best Soundtrack,Fading Eclipse Hidden,1
+Obsidian Screen Gala,Best Visual Effects,Fading Eclipse Hidden,1
